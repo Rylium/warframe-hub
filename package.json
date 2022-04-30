@@ -44,6 +44,8 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.3",
+    "@cypress/vue": "^2.2.4",
+    "@cypress/webpack-dev-server": "^1.8.4",
     "@nuxt/types": "~2.15.0",
     "@nuxtjs/eslint-config": "^9.0.0",
     "@nuxtjs/eslint-module": "^3.1.0",
@@ -53,6 +55,7 @@
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vuejs-accessibility": "^1.1.1",
+    "html-webpack-plugin": "^4.5.2",
     "husky": "^7.0.4",
     "less": "^4.1.2",
     "less-loader": "^7.3.0",

@@ -91,3 +91,7 @@ sw.*
 
 # Service worker
 static/sw.js
+
+cypress/downloads
+cypress/screenshots
+cypress/videos
